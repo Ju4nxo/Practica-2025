@@ -1,2 +1,2 @@
 # Practica-2025
-Almacenamiento de códigos usados durante el periodo de la práctica.
+Almacenamiento de códigos usados durante el periodo de mi práctica.
